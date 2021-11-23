@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697799962128",
+    "firebase_url": "https://superrcab-default-rtdb.firebaseio.com",
+    "project_id": "superrcab",
+    "storage_bucket": "superrcab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697799962128:android:2aff50404816aebb656495",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697799962128-38br396e0ja8kr5fct6q5ofcn6aj0lgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcg9UMQ0E6neHjU_3xSsmYvEe0GNcLX6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697799962128-38br396e0ja8kr5fct6q5ofcn6aj0lgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
